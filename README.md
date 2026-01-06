@@ -68,7 +68,7 @@ StudentManagementSystem/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/student-management-system.git
+git clone https://github.com/AKPrajapati9211/Django-SQL-app.git
 cd student-management-system
 ```
 
